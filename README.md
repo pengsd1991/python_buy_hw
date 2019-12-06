@@ -12,4 +12,4 @@
 4、排队页面等待，直到不在排队
 ---------
 ps 抽空的开发了个集成版本有界面的华为MATE X 购买助手，有需要的可以学习参考一下，使用的是PyQt5开发界面
-华为matex抢购助手，链接: https://pan.baidu.com/s/1XYsybN1EJ1OTZLqz8lBQdA 提取码: 7sq5 
+华为matex抢购助手桌面版，发送邮件到240163929@qq.com获取
